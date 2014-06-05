@@ -1,5 +1,3 @@
-setwd("C:/Users/Usuarioç/Desktop/carlos/Exploratory analysis/ExData_Plotting1")
-getwd()
 rm(list = ls())
 #Reading the data
 clases<-c("character","character","numeric","numeric","numeric","numeric","numeric","numeric","numeric")
